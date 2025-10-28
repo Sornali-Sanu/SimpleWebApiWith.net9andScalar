@@ -97,6 +97,3 @@ you will get a Scalar Api Reference UI.Test your Api
 
 ```
 ![Project Screenshot](assets/screenshot.png)
-
-
-
