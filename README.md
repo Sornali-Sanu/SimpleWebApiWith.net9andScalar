@@ -96,4 +96,9 @@ if (app.Environment.IsDevelopment())
 you will get a Scalar Api Reference UI.Test your Api
 
 ```
-![Project Screenshot](assets/screenshot.png)
+![Get](images/getInfo.png)
+![Post](images/add.png)
+![GetById](images/getById.png)
+![PUT](images/update.png)
+![Delete](images/delete.png)
+
